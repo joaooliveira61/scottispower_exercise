@@ -11,7 +11,8 @@ There is no password, so simply press "Connect". After, enter the following quer
 SELECT * FROM SMART_READ 
 
 <h2>Testing</h2>
-To test the RESTful endpoints, Swagger UI was included. To access Swagger, simply run the application and select the following URL:
-http://localhost:8080/swagger-ui.html#
+To test the RESTful endpoints, Swagger UI was included. To access Swagger, simply run the application and select the following URL
+
+[Swagger UI](http://localhost:8080/swagger-ui.html#)
 
 Select the Smart Read Controller and to test each endpoint, simply select it, press the "Try it out" button and insert an account number
