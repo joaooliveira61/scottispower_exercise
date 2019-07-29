@@ -3,7 +3,7 @@
 
 <h2>Data</h2>
 Data is present in the H2 database. To see the data, run the application and select the following URL:
-http://localhost:8080/h2-console/
+[H2 Console](http://localhost:8080/h2-console/)
 
 There is no password, so simply press "Connect". After, enter the following query and press "Run":
 
