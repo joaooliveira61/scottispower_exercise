@@ -3,7 +3,7 @@ package com.scottishpower.techexercise.model;
 import javax.persistence.*;
 
 /**
- * Entity class that represents the readings on the SMART meter
+ * Entity class that represents the readings on the SMART meter table
  */
 @Entity
 @Table(name = "SMART_READ")
